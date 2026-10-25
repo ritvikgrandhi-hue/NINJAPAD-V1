@@ -15,17 +15,17 @@
         "oled": true
     },
     "matrix_pins": {
-        "cols": ["GP1", "GP2", "GP3"],
-        "rows": ["GP11", "GP10", "GP9"]
+        "cols": ["GP26", "GP27", "GP28"],
+        "rows": ["GP3", "GP4", "GP2"]
     },
     "encoder": {
         "rotary": [
-            {"pin_a": "GP8", "pin_b": "GP4", "resolution": 4}
+            {"pin_a": "GP1", "pin_b": "GP29", "resolution": 4}
         ]
     },
     "i2c": {
-        "sda": "GP5",
-        "scl": "GP6"
+        "sda": "GP6",
+        "scl": "GP7"
     },
     "oled": {
         "driver": "ssd1306"
@@ -45,5 +45,6 @@
                 {"matrix": [2, 0], "x": 0, "y": 2},{"matrix": [2, 1], "x": 1, "y": 2},{"matrix": [2, 2], "x": 2, "y": 2}
             ]
         }
-    }
+    },
+    "config_fragment": "#define I2C_DRIVER I2CD1\n#define I2C1_SDA_PIN GP5\n#define I2C1_SCL_PIN GP6\n#define RP_I2C_USE_I2C1 TRUE\n#define RP_I2C_USE_I2C0 FALSE"    
 }
