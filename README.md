@@ -1,6 +1,9 @@
 # NINJAPAD
 A macropad inspired by Ninjago with a EC11 rotary encoder, 0.91 in OLED display, and a 3x3 matrix of keys. 
 
+## PHYSICAL BUILD
+<img width="1600" height="1204" alt="WhatsApp Image 2026-10-24 at 9 54 00 PM" src="https://github.com/user-attachments/assets/c9cab7cb-25aa-44ed-b82b-bbbaef83b1c6" />
+
 ## CAD DESIGN:
 <img width="1261" height="752" alt="image" src="https://github.com/user-attachments/assets/92de72eb-70df-4c73-8b72-c63c77d5f572" />
 
