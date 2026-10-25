@@ -36,3 +36,4 @@ Two plates, glue the gold components on the top plate, put the pcb on the spacer
 - Case
 - PCB
 - Soldering iron to put things together
+There's a better formatted BOM within the files :)
