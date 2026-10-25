@@ -1,6 +1,9 @@
 # NINJAPAD
 A macropad inspired by Ninjago with a EC11 rotary encoder, 0.91 in OLED display, and a 3x3 matrix of keys. 
 
+## PHYSICAL BUILD
+<img width="1600" height="1204" alt="WhatsApp Image 2026-10-24 at 9 54 00 PM" src="https://github.com/user-attachments/assets/c9cab7cb-25aa-44ed-b82b-bbbaef83b1c6" />
+
 ## CAD DESIGN:
 <img width="1261" height="752" alt="image" src="https://github.com/user-attachments/assets/92de72eb-70df-4c73-8b72-c63c77d5f572" />
 
@@ -13,6 +16,8 @@ The final result of the CAD was an enclosure with 2 layers, where the bottom one
 
 ## PCB:
 <img width="761" height="565" alt="image" src="https://github.com/user-attachments/assets/3e2b9844-4648-4b2a-a7a3-a5f4c5e5067f" />
+<img width="500" height="1000" alt="1ecf0d7d-22f5-420f-ab81-36fc39ac5d44" src="https://github.com/user-attachments/assets/247b4460-9d2c-424e-9fc4-08bb49a48b1b" />
+<img width="500" height="1000" alt="61ae1f55-4d27-4938-b2fd-9c606a1ada45" src="https://github.com/user-attachments/assets/134a6a88-2122-4c9a-872d-1985c41cbc64" />
 
 This was the second longest thing to do. It took so many revisions to fix. For example, I accidentally put the parts too close together, then i forgot to add mounting holes, and had to keep it within the 100x100 size limit. Done in KiCad.
 
@@ -33,3 +38,5 @@ Two plates, glue the gold components on the top plate, put the pcb on the spacer
 - Case
 - PCB
 - Soldering iron to put things together
+
+### There's a better formatted BOM within the files :)
